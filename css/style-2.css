@@ -466,6 +466,7 @@ nav .main-nav li:last-child:after {
 .contact h2 {
     margin-bottom: 30px;
     text-align: left;
+    color: #fff;
 }
 
 .contact ul {
@@ -489,6 +490,7 @@ nav .main-nav li:last-child:after {
 
 .links h2 {
     margin-bottom: 30px;
+    color: #fff;
 }
 
 .links ul {}
@@ -516,6 +518,7 @@ nav .main-nav li:last-child:after {
 
 .newsletter h2 {
     margin-bottom: 30px;
+    color: #fff;
 }
 
 .newsletter p {
@@ -539,6 +542,7 @@ nav .main-nav li:last-child:after {
     font-size: 14px;
     margin-left: 5px;
     float: left;
+    color: #fff;
 }
 
 .newsletter a:hover {
